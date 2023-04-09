@@ -1,0 +1,2 @@
+# MigrationClassGenerator
+Please Check Wiki
