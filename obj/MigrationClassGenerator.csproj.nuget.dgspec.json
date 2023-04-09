@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RND\\Test\\MigrationClassGenerator\\MigrationClassGenerator.csproj": {}
+  },
+  "projects": {
+    "D:\\RND\\Test\\MigrationClassGenerator\\MigrationClassGenerator.csproj": {
+      "version": "0.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\RND\\Test\\MigrationClassGenerator\\MigrationClassGenerator.csproj",
+        "projectName": "MigrationClassGenerator",
+        "projectPath": "D:\\RND\\Test\\MigrationClassGenerator\\MigrationClassGenerator.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\RND\\Test\\MigrationClassGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\RND\\Test\\MigrationClassGenerator\\NuGet.Config",
+          "D:\\RND\\Test\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://nuget.pkg.github.com/Atiqur-Himel/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta4.22272.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

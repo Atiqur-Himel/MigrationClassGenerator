@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>migrate-mongo</ToolCommandName>
+    <PackageId>MigrationClassGenerator</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>github</Authors>
+    <Company>Atiqur-Himel</Company>
+    <PackageDescription>This package will create a specific class which is used for as migration file</PackageDescription>
+    <RepositoryUrl>https://github.com/Atiqur-Himel/MigrationClassGenerator</RepositoryUrl>
+    <Title>Migration Class Creator</Title>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\ASUS\Desktop\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.CommandLine" Version="2.0.0-beta4.22272.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MigrationClassGenerator</id>
+    <version>0.0.1</version>
+    <title>Migration Class Creator</title>
+    <authors>github</authors>
+    <readme>README.md</readme>
+    <description>This package will create a specific class which is used for as migration file</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository url="https://github.com/Atiqur-Himel/MigrationClassGenerator" />
+  </metadata>
+  <files>
+    <file src="D:\RND\Test\MigrationClassGenerator\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\MigrationClassGenerator.dll" target="tools\net6.0\any\MigrationClassGenerator.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\MigrationClassGenerator.deps.json" target="tools\net6.0\any\MigrationClassGenerator.deps.json" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\MigrationClassGenerator.runtimeconfig.json" target="tools\net6.0\any\MigrationClassGenerator.runtimeconfig.json" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\MigrationClassGenerator.pdb" target="tools\net6.0\any\MigrationClassGenerator.pdb" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\System.CommandLine.dll" target="tools\net6.0\any\System.CommandLine.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\cs\System.CommandLine.resources.dll" target="tools\net6.0\any\cs\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\de\System.CommandLine.resources.dll" target="tools\net6.0\any\de\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\es\System.CommandLine.resources.dll" target="tools\net6.0\any\es\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\fr\System.CommandLine.resources.dll" target="tools\net6.0\any\fr\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\it\System.CommandLine.resources.dll" target="tools\net6.0\any\it\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\ja\System.CommandLine.resources.dll" target="tools\net6.0\any\ja\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\ko\System.CommandLine.resources.dll" target="tools\net6.0\any\ko\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\pl\System.CommandLine.resources.dll" target="tools\net6.0\any\pl\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\pt-BR\System.CommandLine.resources.dll" target="tools\net6.0\any\pt-BR\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\ru\System.CommandLine.resources.dll" target="tools\net6.0\any\ru\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\tr\System.CommandLine.resources.dll" target="tools\net6.0\any\tr\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\zh-Hans\System.CommandLine.resources.dll" target="tools\net6.0\any\zh-Hans\System.CommandLine.resources.dll" />
+    <file src="D:\RND\Test\MigrationClassGenerator\bin\Debug\net6.0\publish\zh-Hant\System.CommandLine.resources.dll" target="tools\net6.0\any\zh-Hant\System.CommandLine.resources.dll" />
+    <file src="C:\Users\ASUS\Desktop\README.md" target="\README.md" />
+  </files>
+</package>
